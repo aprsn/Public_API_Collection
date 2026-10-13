@@ -6,7 +6,7 @@
 
 A curated, categorized list of **free public APIs** for learning, side projects, hackathons, and production prototypes — no credit card required to get started.
 > ⭐ Found this useful? Star the repo and consider contributing more APIs via [CONTRIBUTING.md](CONTRIBUTING.md). 
-  
+  jhgfd
 ## Legend
 
 | Symbol | Meaning |
